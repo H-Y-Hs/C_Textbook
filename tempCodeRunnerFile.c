@@ -1,0 +1,1 @@
+hile ((ch = fgetc(fptr)) != EOF)
